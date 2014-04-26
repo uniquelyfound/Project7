@@ -1,0 +1,25 @@
+<aspectj>
+<aspects>
+<aspect name="gradebook.domain.Assignment_Roo_Jpa_ActiveRecord"/>
+<aspect name="gradebook.domain.Student_Roo_Jpa_ActiveRecord"/>
+<aspect name="gradebook.domain.Student_Roo_Jpa_Entity"/>
+<aspect name="gradebook.domain.Student_Roo_JavaBean"/>
+<aspect name="gradebook.domain.Assignment_Roo_ToString"/>
+<aspect name="gradebook.domain.Student_Roo_Configurable"/>
+<aspect name="gradebook.domain.Professor_Roo_Jpa_Entity"/>
+<aspect name="gradebook.domain.Course_Roo_JavaBean"/>
+<aspect name="gradebook.domain.Professor_Roo_ToString"/>
+<aspect name="gradebook.domain.Assignment_Roo_Configurable"/>
+<aspect name="gradebook.domain.Course_Roo_Jpa_Entity"/>
+<aspect name="gradebook.domain.Course_Roo_ToString"/>
+<aspect name="gradebook.domain.Course_Roo_Jpa_ActiveRecord"/>
+<aspect name="gradebook.domain.Professor_Roo_JavaBean"/>
+<aspect name="gradebook.domain.Student_Roo_ToString"/>
+<aspect name="gradebook.domain.Assignment_Roo_JavaBean"/>
+<aspect name="gradebook.domain.Assignment_Roo_Jpa_Entity"/>
+<aspect name="gradebook.domain.Professor_Roo_Configurable"/>
+<aspect name="gradebook.domain.Course_Roo_Configurable"/>
+<aspect name="gradebook.domain.Professor_Roo_Jpa_ActiveRecord"/>
+</aspects>
+</aspectj>
+
